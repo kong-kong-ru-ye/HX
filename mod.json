@@ -1,0 +1,10 @@
+{
+  "name":"hx",
+ "displayName":"幻想",
+  "version": "1.0.0",
+  "format": "自由",
+  "description": "玩的愉快",
+  //"main": "csa.CSA",
+  "minGameVersion": "138",
+ // "dependencies":["multi-crafter"]
+}
