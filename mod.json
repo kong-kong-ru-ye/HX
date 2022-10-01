@@ -2,7 +2,7 @@
   "name":"hx",
  "displayName":"幻想mod加载器",
   "version": "1.0.0",
-  "format": "自由",
+  "author": "自由",
   "description": "要加载两次，不好意思",
   //"main": "csa.CSA",
   "minGameVersion": "138",
